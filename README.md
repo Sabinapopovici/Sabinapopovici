@@ -1,14 +1,14 @@
 ###
 
-<h1 align="center">Hi everyone👋</h1>
+<h1 align="center">Hi everyone 👋</h1>
 
 ###
 
-<h3 align="center">👉  About Me</h3>
+<h3 align="center">👉 About Me</h3>
 
 ###
 
-<p align="left"> I'm Sabina and I'm a junior in Digital Marketing Technology | Martech | Marketer 👩‍💻💻 and a nurse 💉💊, living in Padua (Italy).<br></p>
+<p align="left">🔸 I'm Sabina and I'm a junior in Digital Marketing Technology | Martech | Marketer 👩‍💻💻 and a nurse 💉💊, living in Padua (Italy).<br></p>
 
 ###
 <h1 align="center">My 👇</h1>
