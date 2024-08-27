@@ -1,7 +1,4 @@
-<div>
-  <img src="https://media.istockphoto.com/photos/istockphoto-1398144342-2048x2048.jpg" alt="blue">
-</div>
-
+<h1 align="center">My👋</h1>
 <div align="center">
 </div>
 
