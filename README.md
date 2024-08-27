@@ -1,4 +1,3 @@
-, living in Padua (Italy). You can found me on LinkedIn www.linkedin.com/in/sabina-popovici 📍
 <div align="center">
 </div>
 
