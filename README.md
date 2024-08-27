@@ -1,4 +1,4 @@
-![istockphoto-1398144342-2048x2048](https://github.com/user-attachments/assets/e02b196e-ab1f-4f0a-90eb-4455714749f1)
+![istockphoto-1398144342-2048x2048](https://github.com/user-attachments/assets/352b9778-ec8b-4dde-975e-825d0aba627a)
 ###
 <h1 align="center">My</h1>
 <div align="center">
