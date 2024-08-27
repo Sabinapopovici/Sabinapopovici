@@ -11,7 +11,7 @@
 <p align="left"> I'm Sabina and I'm a junior in Digital Marketing Technology | Martech | Marketer 👩‍💻💻 and a nurse 💉💊, living in Padua (Italy).<br></p>
 
 ###
-<h1 align="center">My</h1>
+<h1 align="center">My 👇</h1>
 <div align="center">
 <a href="https://www.linkedin.com/in/sabina-popovici/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"   
