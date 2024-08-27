@@ -1,3 +1,4 @@
+<img src="https://media.istockphoto.com/photos/istockphoto-1398144342-2048x2048.jpg" alt="Descrizione dell'immagine">
 <div align="center">
 </div>
 
