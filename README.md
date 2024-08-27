@@ -1,5 +1,5 @@
 <div>
-  <img src="https://media.istockphoto.com/photos/istockphoto-1398144342-2048x2048.jpg" alt="Descrizione dell'immagine">
+  <img src="https://media.istockphoto.com/photos/istockphoto-1398144342-2048x2048.jpg" alt="blue">
 </div>
 
 <div align="center">
