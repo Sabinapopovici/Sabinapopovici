@@ -1,4 +1,15 @@
-![istockphoto-1398144342-2048x2048](https://github.com/user-attachments/assets/352b9778-ec8b-4dde-975e-825d0aba627a)
+###
+
+<h1 align="center">Hi everyone👋</h1>
+
+###
+
+<h3 align="center">👩‍💻  About Me</h3>
+
+###
+
+<p align="left"> I'm Sabina and I'm a junior in Digital Marketing Technology | Martech | Marketer 👩‍💻💻 and a nurse 💉💊, living in Padua (Italy).<br></p>
+
 ###
 <h1 align="center">My</h1>
 <div align="center">
@@ -16,17 +27,4 @@
 </a>
 </div>
 
-###
-
-<h1 align="center">Hi everyone👋</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"> I'm Sabina and I'm a junior in Digital Marketing Technology | Martech | Marketer 👩‍💻💻 and a nurse 💉💊, living in Padua (Italy).<br></p>
-
-###
-
+![istockphoto-1398144342-2048x2048](https://github.com/user-attachments/assets/352b9778-ec8b-4dde-975e-825d0aba627a)
