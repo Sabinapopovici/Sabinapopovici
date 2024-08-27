@@ -1,3 +1,4 @@
+<img src="https://via.placeholder.com/500x300/007bff/ffffff?text=Digital+Marketing" alt="Immagine di un computer con grafici che rappresenta il digital marketing">
 <div align="center">
 </div>
 
