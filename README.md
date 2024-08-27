@@ -1,4 +1,3 @@
-<img src="https://www.example.com/immagine_tecnologia.jpg" alt="Immagine di un computer">
 <div align="center">
 </div>
 
@@ -14,11 +13,6 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"   
  height="25" alt="youtube logo"   
  />
-</a>
-<a href="https://discord.com/add-friend/@yourusername#yourdiscriminator" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"   
- width="52" height="40" alt="discord   
- logo" />
 </a>
 </div>
 
