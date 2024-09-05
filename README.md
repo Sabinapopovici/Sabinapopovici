@@ -15,17 +15,15 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/sabina-popovici/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"   
- alt="LinkedIn   
- logo" />
+ alt="LinkedIn logo" />
 </a>
  <a href="https://www.youtube.com/@sabinapopovici" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"   
- height="25" alt="youtube logo"   
- />
+ height="25" alt="youtube logo" />
 </a>
 </div>
 
-
+###
 ![istockphoto-1398144342-2048x2048](https://github.com/user-attachments/assets/483d24c9-3044-4779-88e6-0092fedfd71d)
 
 <h3 align="center">To see my projects you must download the file</h3>
