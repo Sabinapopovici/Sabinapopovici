@@ -10,7 +10,6 @@
 
 <p align="left">🔸 I'm Sabina and I'm a junior in Digital Marketing Technology | Martech | Marketer 👩‍💻💻 and a nurse 💉💊, living in Padua (Italy).<br></p>
 
-###
 <h1 align="center">My 👇</h1>
 
 <div align="center">
