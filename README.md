@@ -25,7 +25,9 @@
 
 ###
 ![istockphoto-1398144342-2048x2048](https://github.com/user-attachments/assets/483d24c9-3044-4779-88e6-0092fedfd71d)
-<h2> [CV.Popovici.Sabina.pdf](https://github.com/user-attachments/files/16894931/CV.Popovici.Sabina.pdf)</h2>
+<h2>My CV</h2>
+[CV.Popovici.Sabina.pdf](https://github.com/user-attachments/files/16894931/CV.Popovici.Sabina.pdf)
+
 <h3 align="center">To see my projects you must download the file</h3>
 <h2 align="center"> ⬇️ </h2>
 
